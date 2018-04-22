@@ -4,7 +4,7 @@ apt upgrade
 echo "y"
 pkg install php
 echo "y"
-git clone https://github.com/taczclub/files
+git clone https://github.com/taczclub/localhost
 cd quix
 chmod 777 localhost
 cp $HOME/quix/localhost /data/data/com.termux/files/usr/bin
