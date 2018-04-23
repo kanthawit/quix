@@ -8,3 +8,5 @@ cd /data/data/com.termux/files/usr/bin
 chmod 777 localhost
 echo "localhost installation is successful now Execute localhost by type localhost"
 echo "DONE"
+cd
+rm -rf quix
