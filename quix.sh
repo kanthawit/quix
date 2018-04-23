@@ -13,7 +13,9 @@ git clone https://github.com/taczclub/helloworld
 mv /sdcard/htdocs/helloworld/index.php /sdcard/htdocs
 rm -rf helloworld
 echo "localhost installation is successful now Execute localhost by type localhost."
-echo "PUT YOUR LOCALHOST CONTENTS INTO INTERNAL SDCARD IN htdocs FOLDER.
+echo "PUT YOUR LOCALHOST CONTENTS INTO INTERNAL SDCARD IN htdocs FOLDER."
 echo "DONE"
 cd
 rm -rf quix
+
+
