@@ -16,7 +16,4 @@ echo "localhost installation is successful now Execute localhost by type localho
 echo "PUT YOUR LOCALHOST CONTENTS INTO INTERNAL SDCARD IN htdocs FOLDER.
 echo "DONE"
 cd
-rm -rf quix 
-
-
-
+rm -rf quix
